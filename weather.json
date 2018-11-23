@@ -1,0 +1,84 @@
+{
+  "weather": {
+    "forecast6days": [
+      {
+        "grid": {
+          "city": "경남",
+          "county": "거제시",
+          "village": "동부면"
+        },
+        "sky": {
+          "amCode2day": "SKY_W02",
+          "amName2day": "구름조금",
+          "pmCode2day": "SKY_W02",
+          "pmName2day": "구름조금",
+          "amCode3day": "SKY_W02",
+          "amName3day": "구름조금",
+          "pmCode3day": "SKY_W02",
+          "pmName3day": "구름조금",
+          "amCode4day": "SKY_W02",
+          "amName4day": "구름조금",
+          "pmCode4day": "SKY_W02",
+          "pmName4day": "구름조금",
+          "amCode5day": "SKY_W02",
+          "amName5day": "구름조금",
+          "pmCode5day": "SKY_W02",
+          "pmName5day": "구름조금",
+          "amCode6day": "SKY_W02",
+          "amName6day": "구름조금",
+          "pmCode6day": "SKY_W02",
+          "pmName6day": "구름조금",
+          "amCode7day": "SKY_W02",
+          "amName7day": "구름조금",
+          "pmCode7day": "SKY_W02",
+          "pmName7day": "구름조금",
+          "amCode8day": "SKY_W02",
+          "amName8day": "구름조금",
+          "pmCode8day": "SKY_W02",
+          "pmName8day": "구름조금",
+          "amCode9day": "SKY_W02",
+          "amName9day": "구름조금",
+          "pmCode9day": "SKY_W02",
+          "pmName9day": "구름조금",
+          "amCode10day": "SKY_W02",
+          "amName10day": "구름조금",
+          "pmCode10day": "SKY_W02",
+          "pmName10day": "구름조금"
+        },
+        "temperature": {
+          "tmax2day": "34",
+          "tmax3day": "34",
+          "tmin2day": "25",
+          "tmin3day": "25",
+          "tmax4day": "34",
+          "tmax5day": "34",
+          "tmax6day": "34",
+          "tmax7day": "33",
+          "tmin4day": "25",
+          "tmin5day": "25",
+          "tmin6day": "24",
+          "tmin7day": "24",
+          "tmax8day": "32",
+          "tmax9day": "32",
+          "tmax10day": "31",
+          "tmin8day": "24",
+          "tmin9day": "24",
+          "tmin10day": "24"
+        },
+        "timeRelease": "2018-07-23 06:00:00",
+        "location": {
+          "name": "거제"
+        }
+      }
+    ]
+  },
+  "common": {
+    "alertYn": "Y",
+    "stormYn": "Y"
+  },
+  "result": {
+    "code": 9200,
+    "requestUrl": "/weather/forecast/6days?version=1&city=경남&county=거제시&village=동부면&foretxt=N&appKey=8123b6a1-7447-4561-b360-86439c84dcfa",
+    "message": "성공"
+  }
+}

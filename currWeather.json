@@ -1,0 +1,59 @@
+{
+  "weather": {
+    "minutely": [
+      {
+        "station": {
+          "longitude": "128.60453",
+          "latitude": "34.88818",
+          "name": "거제",
+          "id": "294",
+          "type": "KMA"
+        },
+        "wind": {
+          "wdir": "222.50",
+          "wspd": "4.10"
+        },
+        "precipitation": {
+          "sinceOntime": "0.00",
+          "type": "0"
+        },
+        "sky": {
+          "code": "SKY_A02",
+          "name": "구름조금"
+        },
+        "rain": {
+          "sinceOntime": "0.00",
+          "sinceMidnight": "0.00",
+          "last10min": "0.00",
+          "last15min": "0.00",
+          "last30min": "0.00",
+          "last1hour": "0.00",
+          "last6hour": "0.00",
+          "last12hour": "0.00",
+          "last24hour": "0.00"
+        },
+        "temperature": {
+          "tc": "32.10",
+          "tmax": "35.00",
+          "tmin": "26.00"
+        },
+        "humidity": "73.90",
+        "pressure": {
+          "surface": "1002.50",
+          "seaLevel": "1007.60"
+        },
+        "lightning": "0",
+        "timeObservation": "2018-07-24 15:19:00"
+      }
+    ]
+  },
+  "common": {
+    "alertYn": "Y",
+    "stormYn": "N"
+  },
+  "result": {
+    "code": 9200,
+    "requestUrl": "/weather/current/minutely?version=1&city=경남&county=거제시&village=동부면&appKey=8123b6a1-7447-4561-b360-86439c84dcfa",
+    "message": "성공"
+  }
+}
